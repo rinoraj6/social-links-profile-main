@@ -55,7 +55,7 @@ html,body{
 .profile-name h1{
     font-weight: 700;
     margin-bottom: 1rem;
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 .profile-name p{
     font-weight: 600;
@@ -75,7 +75,7 @@ html,body{
 .profile-link-group{
     /* border: 1px solid red; */
     padding: 0 2.8rem;
-    padding-bottom: 2.7rem;
+    padding-bottom: 2.5rem;
 }
  a{
     text-decoration: none;
