@@ -54,7 +54,7 @@ html,body{
 }
 .profile-name h1{
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin-bottom: .8rem;
     font-size: 1.7rem;
 }
 .profile-name p{
