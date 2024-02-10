@@ -39,7 +39,7 @@ html,body{
 .profile-img{
     
     padding:3rem 0 2.2rem 0;
-    width: 21%;
+    width: 22%;
     margin:0 auto
 }
 .profile-img img{
@@ -55,7 +55,7 @@ html,body{
 .profile-name h1{
     font-weight: 700;
     margin-bottom: 1rem;
-    font-size: 1.6rem;
+    font-size: 1.7rem;
 }
 .profile-name p{
     font-weight: 600;
@@ -75,7 +75,7 @@ html,body{
 .profile-link-group{
     /* border: 1px solid red; */
     padding: 0 2.8rem;
-    padding-bottom: 2.5rem;
+    padding-bottom: 2.3rem;
 }
  a{
     text-decoration: none;
