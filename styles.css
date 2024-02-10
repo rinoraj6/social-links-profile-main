@@ -34,12 +34,12 @@ html,body{
     width: 90%;
     max-width: 384px;
     background-color: var(--DarkGrey);
-    border-radius: .5rem;
+    border-radius: .8rem;
 }
 .profile-img{
     
     padding:3rem 0 2.2rem 0;
-    width: 30%;
+    width: 20%;
     margin:0 auto
 }
 .profile-img img{
@@ -50,7 +50,7 @@ html,body{
     text-align: center;
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+    gap: 1.2rem;
 }
 .profile-name h1{
     font-weight: 700;
@@ -61,9 +61,9 @@ html,body{
     font-size: 14px;
 }
 .about{
-    padding-top: 1.8rem;
+    margin-top: 2.1rem;
     text-align: center;
-    margin-bottom: 1.8rem;
+    margin-bottom: 2.1rem;
 }
 .about p{
     font-weight: 400;
@@ -73,21 +73,21 @@ html,body{
 .profile-link-group{
     /* border: 1px solid red; */
     padding: 0 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 2.7rem;
 }
  a{
     text-decoration: none;
     display: block;
 }
 .profile-link{
-    margin-bottom: 1.6rem;
-    padding: 1.1rem 0;
+    margin-bottom: 1.1rem;
+    padding: 1.2rem 0;
     text-align: center;
     font-weight: 600;
     color: var(--White);
     background-color: var(--Grey);
     border-radius: .5rem;
-    /* border: 1px solid red; */
+    
 }
 
 .profile-link:hover{
