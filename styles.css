@@ -49,7 +49,7 @@ html,body{
     text-align: center;
     display: flex;
     flex-direction: column;
-    gap: 1.1rem;
+    gap: .5rem;
 }
 .profile-name h1{
     font-weight: 700;
@@ -57,10 +57,12 @@ html,body{
 .profile-name p{
     font-weight: 600;
     color: var(--Green);
+    font-size: 14px;
 }
 .about{
     padding-top: 1.8rem;
     text-align: center;
+    margin-bottom: 1.8rem;
 }
 .about p{
     font-weight: 400;
@@ -77,14 +79,14 @@ html,body{
     display: block;
 }
 .profile-link{
-    margin-bottom: 16px;
+    margin-bottom: 1.6rem;
     padding: 1.1rem 0;
     text-align: center;
     font-weight: 600;
     color: var(--White);
     background-color: var(--Grey);
     border-radius: .5rem;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .profile-link:hover{
@@ -97,3 +99,6 @@ html,body{
 /* input{
     caret-color: black;
 } */
+
+
+
